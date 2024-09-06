@@ -1,4 +1,4 @@
-import { $ } from 'jsr:@ihasq/esptr@0.1.13';
+import { $ } from './ptr.js';
 
 export const bind = $((value, ref) => {
 	ref.addEventListener('input', ({ target: { value: newValue } }) => $[value] = newValue);

@@ -1,4 +1,4 @@
-import { $ } from 'jsr:@ihasq/esptr@0.1.13';
+import { $ } from './ptr.js';
 
 const SH_SYMBOL_TO_PRIMITIVE = Symbol.toPrimitive;
 
