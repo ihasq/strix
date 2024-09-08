@@ -1,3 +1,3 @@
 <h1>Strix 🦉</h1>
 
-Moved to: [strix-js/strix](https://github.com/strix-js/strix)
+Moved to: [strixhq/strix](https://github.com/strixhq/strix)
